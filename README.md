@@ -1,16 +1,25 @@
-### Hi there 👋
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victorwvieira)](https://www.linkedin.com/in/victorwvieira)
 
-<!--
-**victorwvieira/victorwvieira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Brazilian 🇧🇷, living in Portugal 🇵🇹, working as a Full-stack developer 👨‍💻 with 5+ years of experience in mobile/web development and 9+ years of experience with delivery and consultancy in IT.
 
-Here are some ideas to get you started:
+I have been working with international 🌐 companies developing web 🖥 and mobile 📱 applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## I'm strongly 
+- 🎯 Committed to my work 
+- 🏃‍♂️ Passionate about Agile methodologies 
+- 🧩 Focused on my goals
+- 📖 Fast self learner
+
+
+## My Skills:
+![FE Badge](https://img.shields.io/badge/DEV-Front--end-green) ![BE Badge](https://img.shields.io/badge/DEV-Back--end-green)
+- Technologies: Javascript, HTML, CSS
+- Storage: SQL, NoSQL
+- Distributed Systems: Heroku, Netlify
+- Versioning systems: git
+- Back-end Development: Node.JS
+- Front-end development: ReactJS
+- Mobile development: React Native
+- Design: Bootstrap, Material-UI
+- Process: Agile 
