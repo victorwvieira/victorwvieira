@@ -1,4 +1,4 @@
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victorwvieira)](https://www.linkedin.com/in/victorwvieira)
+![FE Badge](https://img.shields.io/badge/DEV-Front--end-green) ![BE Badge](https://img.shields.io/badge/DEV-Back--end-green) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victorwvieira)](https://www.linkedin.com/in/victorwvieira)
 
 I'm Brazilian 🇧🇷, living in Portugal 🇵🇹, working as a Full-stack developer 👨‍💻 with 5+ years of experience in mobile/web development and 9+ years of experience with delivery and consultancy in IT.
 
@@ -13,7 +13,6 @@ I have been working with international 🌐 companies developing web 🖥 and mo
 
 
 ## My Skills:
-![FE Badge](https://img.shields.io/badge/DEV-Front--end-green) ![BE Badge](https://img.shields.io/badge/DEV-Back--end-green)
 - Technologies: Javascript, HTML, CSS
 - Storage: SQL, NoSQL
 - Distributed Systems: Heroku, Netlify
