@@ -9,7 +9,7 @@ I have been working with international 🌐 companies developing web 🖥 and mo
 - 🎯 Committed to my work 
 - 🏃‍♂️ Passionate about Agile methodologies 
 - 🧩 Focused on my goals
-- 📖 Fast self learner
+- 📖 Never stop learning
 
 
 ## My Skills:
