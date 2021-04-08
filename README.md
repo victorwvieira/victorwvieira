@@ -1,13 +1,11 @@
-![FE Badge](https://img.shields.io/badge/DEV-Front--end-green) ![BE Badge](https://img.shields.io/badge/DEV-Back--end-green) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victorwvieira)](https://www.linkedin.com/in/victorwvieira)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victorwvieira)](https://www.linkedin.com/in/victorwvieira)
 
-I'm Brazilian 🇧🇷, living in Portugal 🇵🇹, working as a Full-stack developer 👨‍💻 with 5+ years of experience in mobile/web development and 9+ years of experience with delivery and consultancy in IT.
-
-I have been working with international 🌐 companies developing web 🖥 and mobile 📱 applications.
+Christian, husband and passionate for Digital solutions. I'm Brazilian 🇧🇷 living in Portugal 🇵🇹
+I have experience working as consultant with different industries and international projects 🌐 most of theses projects was focus on Mobile solutions📱
 
 
 ## I'm strongly 
 - 🎯 Committed to my work 
-- 🏃‍♂️ Passionate about Agile methodologies 
 - 🧩 Focused on my goals
 - 📖 Never stop learning
 
@@ -22,3 +20,5 @@ I have been working with international 🌐 companies developing web 🖥 and mo
 - Mobile development: React Native
 - Design: Bootstrap, Material-UI
 - Process: Agile 
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=victorwvieira&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
