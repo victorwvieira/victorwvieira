@@ -8,12 +8,10 @@
 Christian, husband and passionate for Digital solutions. I'm Brazilian 🇧🇷 living in Portugal 🇵🇹
 I have experience working as consultant with different industries and international projects 🌐 most of theses projects was focus on Mobile solutions📱
 
-
 ## I'm strongly 
-- 🎯 Committed to my work 
+- 🎯 Committed to my work
 - 🧩 Focused on my goals
 - 📖 Never stop learning
-
 
 ## My Skills:
 - Technologies: Javascript, HTML, CSS
