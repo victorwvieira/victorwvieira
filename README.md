@@ -1,5 +1,10 @@
+# Hello, I'm Victor Vieira # 👨‍💻
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victorwvieira)](https://www.linkedin.com/in/victorwvieira)
 
+## Glad to see you here ![visitors](https://visitor-badge.glitch.me/badge?page_id=${victorwvieira}.${victorwvieira})
+
+## A little about me
 Christian, husband and passionate for Digital solutions. I'm Brazilian 🇧🇷 living in Portugal 🇵🇹
 I have experience working as consultant with different industries and international projects 🌐 most of theses projects was focus on Mobile solutions📱
 
