@@ -5,7 +5,7 @@
 ## Glad to see you here ![visitors](https://visitor-badge.glitch.me/badge?page_id=${victorwvieira}.${victorwvieira})
 
 ## A little about me
-Christian, husband and passionate for Digital solutions. I'm Brazilian 🇧🇷 living in Portugal 🇵🇹
+Christian, husband and passionate for Digital solutions. I'm Brazilian 🇧🇷 living in Belgium 🇧🇪 
 I have experience working as consultant with different industries and international projects 🌐 most of theses projects was focus on Mobile solutions📱
 
 ## I'm strongly 
