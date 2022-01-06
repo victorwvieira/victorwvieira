@@ -6,7 +6,6 @@
 
 ## A little about me
 Christian, husband and passionate for Digital solutions. I'm Brazilian 🇧🇷 living in Belgium 🇧🇪 
-I have experience working as consultant with different industries and international projects 🌐 most of theses projects was focus on Mobile solutions📱
 
 ## I'm strongly 
 - 🎯 Committed to my work
@@ -19,7 +18,7 @@ I have experience working as consultant with different industries and internatio
 - Distributed Systems: Heroku, Netlify
 - Versioning systems: git
 - Back-end Development: Node.JS
-- Front-end development: ReactJS
+- Front-end development: ReactJS, Angular
 - Mobile development: React Native
 - Design: Bootstrap, Material-UI
 - Process: Agile 
