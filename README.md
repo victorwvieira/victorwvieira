@@ -1,26 +1,24 @@
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victorwvieira)](https://www.linkedin.com/in/victorwvieira)
 # Hello, I'm Victor Vieira 👨‍💻
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victorwvieira)](https://www.linkedin.com/in/victorwvieira)
-
-## Glad to see you here ![visitors](https://visitor-badge.glitch.me/badge?page_id=${victorwvieira}.${victorwvieira})
-
 ## A little about me
-Christian, husband and passionate for Digital solutions. I'm Brazilian 🇧🇷 living in Belgium 🇧🇪 
+👨‍💻 Frontend Developer, currently, working with Angular
 
-## I'm strongly 
-- 🎯 Committed to my work
-- 🧩 Focused on my goals
-- 📖 Never stop learning
+🇧🇪 Living in Belgium
 
-## My Skills:
-- Technologies: Javascript, HTML, CSS
-- Storage: SQL, NoSQL
-- Distributed Systems: Heroku, Netlify
-- Versioning systems: git
-- Back-end Development: Node.JS
-- Front-end development: ReactJS, Angular
-- Mobile development: React Native
-- Design: Bootstrap, Material-UI
-- Process: Agile 
+👨‍🎓 Graduated in IT Management - Institute Mauá of Technology
+
+I have more than 10 years of experience working in the IT area, focusing on consulting and application development (web and mobile).
+
+## Technologies that I already worked on:
+- HTML
+- CSS
+- Javascript - JS
+- Typescript - TS
+- Angular
+- Ionic
+- ReactJS
+- React Native
+- Node.JS
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victorwvieira&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
